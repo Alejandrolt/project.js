@@ -12,7 +12,7 @@ let allGenres = [];
 
 export async function obtenerPeliculasPopulares() {
   try {
-    for (let page = 1; page <= 300; page++) {
+    for (let page = 1; page <= 250; page++) {
       const respuesta = await axios.get(`${BASE_URL}/movie/popular`, {
         params: {
           api_key: API_KEY,
