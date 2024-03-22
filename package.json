@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "Project JS",
-  "homepage": "https://alejandrolt.github.io/projectjavas/",
+  "homepage": "https://alejandrolt.github.io/projectjavas",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url/ projectjavas"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alejandrolt/projectjavas/"
+    "url": "git+https://github.com/Alejandrolt/projectjavas"
   },
   "keywords": [],
   "author": "Alejandro Largo",
