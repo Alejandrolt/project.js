@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "Project JS",
-  "homepage": "https://alejandrolt.github.io/projectjs/",
+  "homepage": "https://alejandrolt.github.io/project.js/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url/ projectjs"
+    "build": "parcel build src/*.html --public-url/ project.js"
   },
   "repository": {
     "type": "git",
