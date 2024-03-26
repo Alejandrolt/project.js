@@ -3,7 +3,7 @@ import { modales } from './modal_pelicula';
 import { llenarmodal } from './llenar_modal';
 import { hacerPaginacion } from './paginacion';
 
-const API_KEY = ' 92a29a208697474804603c1dc44ad181';
+const API_KEY = '92a29a208697474804603c1dc44ad181';
 
 const BASE_URL = 'https://api.themoviedb.org/3';
 
