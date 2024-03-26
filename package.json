@@ -4,8 +4,8 @@
   "description": "Project JS",
   "homepage": "https://alejandrolt.github.io/projectjavas/",
   "scripts": {
-    "start": "parcel .src/index.html",
-    "build": "parcel build .src/index.html --public-url /projectjavas"
+    "start": "parcel  src/*.html",
+    "build": "parcel build  src/*.html --public-url /projectjavas"
   },
   "repository": {
     "type": "git",
